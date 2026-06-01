@@ -248,10 +248,6 @@ sudo testparm
 
 ---
 
-#### 📸 Evidència 9 — Validació amb `testparm`
-
-> **Captureu la sortida de `testparm` sense errors. Ha de mostrar "Loaded services file OK".**
-
 
 ```<img width="614" height="578" alt="Captura de pantalla 2026-05-19 162611" src="https://github.com/user-attachments/assets/d554168a-2c41-42ef-a360-13535dc512a5" />
 
